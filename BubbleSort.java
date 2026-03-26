@@ -17,7 +17,7 @@ public class BubbleSort {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {//main method
         int[] arr = {8, 7, 53, 6, 2, 8, 9};
         bubblesort(arr);
 
