@@ -1,4 +1,3 @@
-package P2_Two_Pointers;
 
 public class ValidPalindrome_II {
     public static boolean isValidPalindrome(String s) {
