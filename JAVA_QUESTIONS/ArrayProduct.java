@@ -1,3 +1,4 @@
+
 public class ArrayProduct {
     public static int[] arrayProduct(int[] arr) {
         int n = arr.length;
