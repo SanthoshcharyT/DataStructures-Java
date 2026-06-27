@@ -1,6 +1,5 @@
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 public class ValidSuduko {
     public static boolean isValid(char board[][]) {
