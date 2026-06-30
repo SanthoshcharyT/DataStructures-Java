@@ -14,7 +14,6 @@ public class ArmstrongNumber {
         // Reset number to original value
         number = originalNumber;
 
-        // Calculate sum of cubes
         while (number > 0) {
             int digit = number % 10;
             sum += Math.pow(digit, digits);
