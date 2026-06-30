@@ -11,7 +11,6 @@ public class ArmstrongNumber {
             digits++;
         }
 
-        // Reset number to original value
         number = originalNumber;
 
         while (number > 0) {
