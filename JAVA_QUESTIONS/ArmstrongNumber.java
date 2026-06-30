@@ -18,7 +18,6 @@ public class ArmstrongNumber {
             number /= 10;
         }
 
-        // Check if sum is equal to original number
         if (sum == originalNumber) {
             System.out.println(originalNumber + " is an Armstrong number");
         } else {
