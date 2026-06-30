@@ -5,7 +5,6 @@ public class ArmstrongNumber {
         int sum = 0;
         int digits = 0;
 
-        // Count the number of digits
         while (number > 0) {
             number /= 10;
             digits++;
